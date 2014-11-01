@@ -1,0 +1,40 @@
+#
+Newone nand2 symbol
+I14
+I16
+I15
+I21
+I22
+#
+Newone nand3 symbol
+I10
+I9
+I12
+I11
+I13
+I18
+I17
+I19
+#
+Newone inv symbol
+I6
+I5
+I8
+I7
+I0
+I1
+I2
+I3
+I4
+#ISCELL
+basic opin symbol
+PIN12
+PIN13
+PIN11
+PIN10
+PIN14
+#ISCELL
+basic ipin symbol
+PIN7
+PIN6
+PIN5

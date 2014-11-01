@@ -1,0 +1,16 @@
+#
+Adders Sum_unit symbol
+I0
+#ISCELL
+basic opin symbol
+PIN0
+#ISCELL
+basic ipin symbol
+PIN4
+PIN3
+#ISCELL
+analogLib vdd symbol
+I2
+#ISCELL
+analogLib vss symbol
+I3

@@ -1,0 +1,73 @@
+#
+Adders 8b_Gen_Pro_L2 symbol
+I1
+#
+Adders Gen_Pro_L0 symbol
+I22
+I21
+I20
+I19
+I18
+I17
+I15
+I0
+#
+Adders 8b_Gen_Pro_L1 symbol
+I48
+I24
+I2
+#
+Adders Carry_unit symbol
+I3
+I4
+I28
+I34
+I32
+I31
+I29
+I33
+#
+Adders Sum_unit symbol
+I38
+I43
+I36
+I41
+I39
+I40
+I37
+I42
+#ISCELL
+basic opin symbol
+PIN18
+PIN23
+PIN27
+PIN19
+PIN26
+PIN25
+PIN22
+PIN24
+PIN21
+#ISCELL
+basic ipin symbol
+PIN0
+PIN1
+PIN2
+PIN3
+PIN4
+PIN5
+PIN6
+PIN7
+PIN8
+PIN9
+PIN10
+PIN11
+PIN12
+PIN13
+PIN14
+PIN15
+#ISCELL
+analogLib vdd symbol
+I8
+I7
+I6
+I5

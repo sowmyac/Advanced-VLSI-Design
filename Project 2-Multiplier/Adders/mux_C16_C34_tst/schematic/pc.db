@@ -1,0 +1,18 @@
+#
+analogLib vpulse symbol
+V4
+V3
+V2
+#
+analogLib vdc symbol
+V0
+#
+Adders mux_C16_C34 symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I2
+I1
+#ISCELL
+basic opin symbol
+PIN0

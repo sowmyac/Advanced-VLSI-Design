@@ -1,0 +1,22 @@
+#
+cmrf8sf nfet symbol
+T13
+T8
+T7
+T3
+T2
+#
+cmrf8sf pfet symbol
+T12
+T11
+T9
+T10
+#ISCELL
+basic ipin symbol
+PIN5
+PIN1
+PIN0
+PIN4
+#ISCELL
+basic opin symbol
+PIN3

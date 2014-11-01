@@ -1,0 +1,27 @@
+#
+analogLib vdc symbol
+V6
+#
+analogLib vpulse symbol
+V5
+V4
+V3
+V2
+V1
+V0
+#
+Adders 8b_Gen_Pro_L1 symbol
+I0
+#ISCELL
+analogLib gnd symbol
+I7
+I6
+I5
+I4
+I3
+I2
+I1
+#ISCELL
+basic opin symbol
+PIN1
+PIN0

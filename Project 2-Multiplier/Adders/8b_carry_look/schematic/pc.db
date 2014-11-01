@@ -1,0 +1,69 @@
+#
+Adders 8b_Gen_L2 symbol
+I46
+I45
+#
+Adders Sum_unit symbol
+I42
+I37
+I40
+I39
+I41
+I36
+I43
+I38
+#
+Adders Carry_unit symbol
+I33
+I29
+I31
+I32
+I34
+I28
+#
+Adders 8b_Gen_Pro_L1 symbol
+I24
+I48
+#
+Adders Gen_Pro_L0 symbol
+I22
+I21
+I20
+I18
+I19
+I17
+I15
+I0
+#ISCELL
+basic ipin symbol
+PIN15
+PIN14
+PIN13
+PIN12
+PIN11
+PIN10
+PIN9
+PIN8
+PIN7
+PIN6
+PIN5
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN21
+PIN24
+PIN22
+PIN25
+PIN28
+PIN26
+PIN19
+PIN27
+PIN23
+#ISCELL
+analogLib gnd symbol
+I50
+I49

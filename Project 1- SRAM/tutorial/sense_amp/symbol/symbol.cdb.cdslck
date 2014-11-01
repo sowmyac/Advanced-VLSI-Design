@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      kxs132630
+HostName                       engnx06.utdallas.edu
+ProcessIdentifier              42056
+ProcessCreationTime_UTC        1404227359
+ProcessCreationTime_Readable   Tue Jul  1 10:09:19 2014 CDT
+AppIdentifier                  /proj/cad/cadence/ic-5.141.usr5.lnx86/tools/dfII/bin/icfb.exe
+OSType                         lnx86
+ReasonForPlacingEditLock       XXreopen for A_MODE lock
+FilePathUsedToEditLock         /home/004/k/kx/kxs132630/cad/cadence/tutorial/sense_amp/symbol/symbol.cdb
+TimeEditLocked                 Tue Jul  1 14:49:20 2014 CDT

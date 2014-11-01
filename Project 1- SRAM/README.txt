@@ -5,5 +5,5 @@
 	Refer to "Hspice codes of SRAM"
 	
 3) Overall project description 
-	"AVLSI-Project1 SRAM.pdf" 
+	Refer to "AVLSI-Project1 SRAM.pdf" 
 	
